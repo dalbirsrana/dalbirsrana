@@ -1,6 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Dalbir 👋
 
-- 🌱 I’m currently learning Liquid (template language by Shopify), NodeJS and ReactJS
+- 🌱 I’m currently learning ReactJS and Liquid (template language by Shopify)
+
+## Web developer - experience in developing and managing eCommerce business.
+
+- Able to develop beaitiful, user-friendly responsive websites that also perform well. 
+
+- 📫 How to reach me: 
+      dalbirsrana@gmail.com
+      https://www.linkedin.com/in/dalbir-singh-01815328/
+ 
 
 <!--
 **dalbirsrana/dalbirsrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
