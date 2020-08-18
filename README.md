@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Liquid - an open-source template language created by Shopify, NodeJS and ReactJS
+
+- 🌱 I’m currently learning Liquid (template language by Shopify), NodeJS and ReactJS
 
 <!--
 **dalbirsrana/dalbirsrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
