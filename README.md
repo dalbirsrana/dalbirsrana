@@ -7,8 +7,8 @@
 - Able to develop beaitiful, user-friendly responsive websites that also perform well. 
 
 - 📫 How to reach me: 
-      dalbirsrana@gmail.com
-      https://www.linkedin.com/in/dalbir-singh-01815328/
+      -- dalbirsrana@gmail.com
+      -- https://www.linkedin.com/in/dalbir-singh-01815328/
  
 
 <!--
