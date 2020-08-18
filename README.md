@@ -3,13 +3,13 @@
 - 🌱 I’m currently learning ReactJS and Liquid (template language by Shopify)
 
 ## Web developer - experience in developing and managing eCommerce business.
+### Able to develop beaitiful, user-friendly responsive websites that also perform well. 
 
-- Able to develop beaitiful, user-friendly responsive websites that also perform well. 
+## 📫 How to reach me:
 
-- 📫 How to reach me:
+:e-mail: dalbirsrana@gmail.com
 
-      dalbirsrana@gmail.com
-      https://www.linkedin.com/in/dalbir-singh-01815328/
+:link: [Linkedin Profile](https://www.linkedin.com/in/dalbir-singh-01815328/)
  
 
 <!--
