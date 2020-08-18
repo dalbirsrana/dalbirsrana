@@ -9,8 +9,7 @@
 - 📫 How to reach me:
 
       - dalbirsrana@gmail.com
-
-- https://www.linkedin.com/in/dalbir-singh-01815328/
+      - https://www.linkedin.com/in/dalbir-singh-01815328/
  
 
 <!--
