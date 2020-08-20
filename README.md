@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS and Liquid (template language by Shopify)
 
 ## Web developer - experience in developing and managing eCommerce business.
-### Able to develop beaitiful, user-friendly responsive websites that also perform well. 
+### Able to develop beautiful, user-friendly responsive websites that also perform well. 
 
 ## 📫 How to reach me:
 
