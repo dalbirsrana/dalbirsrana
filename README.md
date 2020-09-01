@@ -1,6 +1,6 @@
 ### Hi there, I'm Dalbir 👋
 
-- 🌱 I’m currently learning ReactJS and Liquid (template language by Shopify)
+- 🌱 Currently learning ReactJS and Liquid (template language by Shopify)
 
 ## Web developer - experience in developing and managing eCommerce business.
 ### Able to develop beautiful, user-friendly responsive websites that also perform well. 
