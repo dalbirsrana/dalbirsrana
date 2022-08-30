@@ -1,6 +1,5 @@
 ### Hi there, I'm Dalbir 👋
 
-- 🔭 Currently working on Shopify Themes {liquid}
 - 🌱 Currently learning ReactJS
 
 ## Web developer - experience in developing and managing eCommerce business.
