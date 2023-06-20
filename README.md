@@ -2,7 +2,7 @@
 
 - 🌱 Currently learning ReactJS
 
-## Web developer - experience in developing and managing eCommerce business.
+## Web developer - experience in HTML, CSS, JavaScript, jQuery, PHP.
 ### Able to develop beautiful, user-friendly responsive websites that also perform well. 
 
 ## 📫 How to reach me:
